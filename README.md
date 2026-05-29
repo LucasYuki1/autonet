@@ -1,5 +1,5 @@
 # primeira vez no CloudShell
-git clone https://github.com/SEU_USUARIO/netconfig.git
+git clone https://github.com/LucasYuki1/autonet.git
 cd netconfig
 python3 netconfig.py
 
